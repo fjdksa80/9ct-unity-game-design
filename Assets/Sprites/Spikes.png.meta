@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aaa8402473ad7aa4581db451c998f95b
+guid: a370c56c513af9945b4c6f105b710041
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5293031974318352618
-    second: Crystal_0
+      213: 6723963429988506304
+    second: Spikes_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,23 +100,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Crystal_0
+      name: Spikes_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 512
         width: 512
-        height: 1024
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae8a7067980a47940800000000000000
-      internalID: 5293031974318352618
+      spriteID: d1ee6820ef46961478446599c93fe0ea
+      internalID: 1217718576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba3133521a72f2418531b27069210ff
+      internalID: -2051317752
       vertices: []
       indices: 
       edges: []
@@ -125,7 +147,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 700cd7ec450d09c4584d58811ba16473
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +157,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Crystal_0: 5293031974318352618
+      Spikes_0: 1217718576
+      Spikes_1: -2051317752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
