@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: dbdda43133099f64d844adc7443665a9
+guid: 5e3e1c215d6e07349a3cdb6fa1ccb651
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3163333589018038240
-    second: tile spritesheet_0
+      213: 7674397898601434565
+    second: Guy_0
+  - first:
+      213: -2356465846495720907
+    second: Guy_1
+  - first:
+      213: 2156160914531489317
+    second: Guy_2
+  - first:
+      213: 1290263079830008881
+    second: Guy_3
+  - first:
+      213: 8444081492761671576
+    second: Guy_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +112,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tile spritesheet_0
+      name: Guy_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 020b4806cd49914d0800000000000000
-      internalID: -3163333589018038240
+      spriteID: 5cd84236a30f08a60800000000000000
+      internalID: 7674397898601434565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile spritesheet_1
+      name: Guy_1
       rect:
         serializedVersion: 2
         x: 512
@@ -135,60 +147,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8e158c99480e564498276e7d4f0ca04b
-      internalID: -1529118171
+      spriteID: 53a48463cc62c4fd0800000000000000
+      internalID: -2356465846495720907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44d92451067d50f45be1122e7192901c
-      internalID: -1928322710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tile spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 512
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1d6ce6f9baff824086f077496e8f663
-      internalID: 1194915753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tile spritesheet_4
+      name: Guy_2
       rect:
         serializedVersion: 2
         x: 0
@@ -201,16 +169,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0db11f063a59d5e4b96ac7942e2f6e9e
-      internalID: 2089408766
+      spriteID: 5261b3d8de83ced10800000000000000
+      internalID: 2156160914531489317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile spritesheet_5
+      name: Guy_3
       rect:
         serializedVersion: 2
         x: 512
@@ -223,16 +191,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cc820a9ccd886764691962ab91a7039f
-      internalID: -179715321
+      spriteID: 134b11c5f6fe7e110800000000000000
+      internalID: 1290263079830008881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile spritesheet_6
+      name: Guy_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -245,16 +213,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 12def8d5bc9ab824ca63b041c6912679
-      internalID: 1630892918
+      spriteID: 897728601676f2570800000000000000
+      internalID: 8444081492761671576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile spritesheet_7
+      name: Guy_5
       rect:
         serializedVersion: 2
         x: 1536
@@ -269,8 +237,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dad54ca98c07e9a48a375a9e0ba88324
-      internalID: 660835153
+      spriteID: 1735e856f0d776143959ccb798e046ca
+      internalID: 1165559116
       vertices: []
       indices: 
       edges: []
@@ -279,7 +247,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b60afcc28e8bd4d4fa31f1e61e61d6c1
+    spriteID: 7e6cff888361c7a4d9d57756ced93d5e
     internalID: 0
     vertices: []
     indices: 
@@ -289,14 +257,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tile spritesheet_0: -3163333589018038240
-      tile spritesheet_1: -1529118171
-      tile spritesheet_2: -1928322710
-      tile spritesheet_3: 1194915753
-      tile spritesheet_4: 2089408766
-      tile spritesheet_5: -179715321
-      tile spritesheet_6: 1630892918
-      tile spritesheet_7: 660835153
+      Guy_0: 7674397898601434565
+      Guy_1: -2356465846495720907
+      Guy_2: 2156160914531489317
+      Guy_3: 1290263079830008881
+      Guy_4: 8444081492761671576
+      Guy_5: 1165559116
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
