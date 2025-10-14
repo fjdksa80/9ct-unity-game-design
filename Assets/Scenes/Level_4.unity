@@ -21876,7 +21876,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6484910116449659787, guid: 5a017510f03b01e4bb03677e83364da0, type: 3}
       propertyPath: speed
-      value: 800
+      value: 1600
       objectReference: {fileID: 0}
     - target: {fileID: 6484910116449659787, guid: 5a017510f03b01e4bb03677e83364da0, type: 3}
       propertyPath: airSpeedMultiplier
