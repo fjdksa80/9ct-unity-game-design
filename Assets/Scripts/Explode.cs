@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Explode : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class Explode : MonoBehaviour
             // Disable the CapsuleCollider2D on the Player to prevent further collisions
             if (playerCollider != null){
                 playerCollider.enabled = false;
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
         }
     }

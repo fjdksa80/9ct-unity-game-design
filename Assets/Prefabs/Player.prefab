@@ -129,7 +129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 800
   maxVelocity: {x: 60, y: 100}
-  jetSpeed: 35000
+  jetSpeed: 36000
   standing: 0
   standingThreshold: 4
   airSpeedMultiplier: 0.7
