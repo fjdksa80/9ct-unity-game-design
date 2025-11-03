@@ -23,5 +23,26 @@
 
 ### Functional and Non-Functional Specifications
 
+#### Functional Requirements
+
+**User Interaction:** The user will interact with my game via keyboard and mouse controls. The user will be able to move the player using WASD/arrow keys and jump with space bar. The mouse will be used to select options in menu screens/splash screens.
+
+**Core Gameplay or Simulation Mechanics:** The game will move the player in response to the user's inputs and will, go to the next level when the player is at the end.
+
+**Score and Feedback:** A timer will begin at the start of each level, and stop at the end of each level. The game will store the user's best times.
+
+**Level Progression:** The user will progress to the next level once they reach a dedicated ending area of the level.
+
+**Saving and Loading Data:** The game will store which levels have been completed so the user can replay those levels without having to play all of the previous levels. The game will also keep track of the fastest completion times for each level.
+
+#### Non-Functional Requirements
+
+**Performance Requirements:** The game should be relatively quick to load each level, and the gameplay shouldnt have any noticible lag.
+
+**Usability Requirements:** The game should have a main menu/splash screen and a level selection screen.
+
+**Scalability Requirements:** The game should be scalable to include new levels without an impact on the existing levels.
+
 ### Social and Ethical Issues
 
+**Accessibility:** 
