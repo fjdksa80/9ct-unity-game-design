@@ -64,3 +64,29 @@ Accessibility - Designing porducts such that they can be accessed by anyone.
 
 ## Exploration of Existing Ideas
 
+![PMI Table](./Images/PMI%20Table.png)
+
+## Flowcharts and Pseudocode
+
+### Movement
+
+![Movement Flowchart](./Images/Movement.png)
+
+```
+BEGIN Movement
+    INPUT Input
+    IF 'A' or '←' pressed THEN
+        Move player left
+    ELSE IF 'D' or '→' pressed THEN
+        Move player right
+    ELSE IF 'W' or '↑' or 'space' pressed THEN
+        IF Touching ground THEN
+            Make player jump
+        END IF
+    END IF
+END Movement 
+```
+
+## Storyboards
+
+## Gantt Chart
