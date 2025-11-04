@@ -45,4 +45,22 @@
 
 ### Social and Ethical Issues
 
-**Accessibility:** 
+**Definitions:**
+
+Equity - Being fair and just in the way people are treated. \
+Accessibility - Designing porducts such that they can be accessed by anyone.
+
+**Accessibility:** My game should be pretty accessible without the need for special considerations due to its simplistic nature and minimal controls.
+
+**Privacy and Data Protection:** I will ensure that any data collected such as best times and the levels that have been completed will remain stored securely.
+
+**Fairness and Representation:** My characters will likely not be human, so there isn't much of an opportunity to include diverse characters.
+
+**Mental and Emotional Well-being:** Players may get frustrated if they cannot solve the puzzles, but otherwise the game will not have any effect on the player's mental or emotional wellbeing.
+
+**Cultural Sensitivities:** My game will not include any themes or symbols that may be offensive or culturally insensitive.
+
+# Researching and Planning
+
+## Exploration of Existing Ideas
+
