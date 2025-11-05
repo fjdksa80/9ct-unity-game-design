@@ -2,7 +2,13 @@
 ### Fraser Maple
 
 ## Identifying and Defining
+
+### My Idea
+
+I want to create a puzzle-platformer game in which the player must push boxes onto buttons in order to progress, however, there's a twist: the player can swap positions with the box at any time, opening the door to countless new and exciting puzzles.
+
 ### Identifying a Need
+
 **Need:** To sharpen and challenge the player's problem-solving abilities and platforming skills.
 
 **Problem Statement:** Many video games require little thinking and problem-solving. A puzzle-platformer game is the perfect game to enchance the player's problem-solving and thinking skills.
@@ -25,7 +31,7 @@
 
 #### Functional Requirements
 
-**User Interaction:** The user will interact with my game via keyboard and mouse controls. The user will be able to move the player using WASD/arrow keys and jump with space bar. The mouse will be used to select options in menu screens/splash screens.
+**User Interaction:** The user will interact with my game via keyboard and mouse controls. The user will be able to move the player using WASD/arrow keys and jump with space bar. The mouse will be used to click buttons on the splash screen.
 
 **Core Gameplay or Simulation Mechanics:** The game will move the player in response to the user's inputs and will, go to the next level when the player is at the end.
 
@@ -87,6 +93,69 @@ BEGIN Movement
 END Movement 
 ```
 
+### Next Level
+
+![Next Level Flowchart](./Images/Next%20Level.png)
+
+```
+BEGIN Next Level
+    DO
+        Nothing
+    UNTIL At end of level IS TRUE
+    Stop timer
+    IF Time better than best THEN
+        Update best time for level
+    END IF
+    Go to next level
+END Next Level
+```
+
+### Splashscreen
+
+![Splashscreen Flowchart](./Images/Splashscreen.png)
+
+```
+BEGIN Splashscreen
+    INPUT input
+    IF Start button pressed THEN
+        Start level 1
+    ELSE IF Select level button pressed THEN
+        Show level select screen
+    ELSE IF Quit button pressed THEN
+        Quit game
+    END IF
+END Splashscreen
+```
+
+### Pause menu
+
+![Pause Menu Flowchart](./Images/Pause%20Menu.png)
+
+```
+BEGIN Pause menu
+    INPUT Input
+    IF Continue button pressed THEN
+        Close pause menu
+    ELSE IF Back to main menu button pressed THEN
+        Go to splashscreen
+    END IF
+END Pause menu
+```
+
 ## Storyboards
 
+### Whole Game
+
+![Whole Game Storyboard](./Images/Whole%20game%20storyboard.png)
+
+### Splashscreen
+
+![Splashscreen Storyboard](./Images/Splashscreen.jpg)
+
+### Level
+
+![Level Storyboard](./Images/Level.jpg)
+
 ## Gantt Chart
+
+![Gantt Chart](./Images/Gantt%20Chart.png)
