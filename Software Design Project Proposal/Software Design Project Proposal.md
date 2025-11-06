@@ -13,7 +13,7 @@ I want to create a puzzle-platformer game in which the player must push boxes on
 
 **Problem Statement:** Many video games require little thinking and problem-solving. A puzzle-platformer game is the perfect game to enchance the player's problem-solving and thinking skills.
 
-**Skill Development:** To develop the skills in Unity required to create the game, I will use my knowledge gained from my previous Unity game, and I can do research for any additional functionalities that my game may require.
+**Skill Development:** To develop the skills in Unity required to create the game, I will use my knowledge gained from my previous Unity game, paired with some extra research for any additional functionalities that my game may require.
 
 ### Requirements Outline
 
@@ -23,9 +23,7 @@ I want to create a puzzle-platformer game in which the player must push boxes on
 
 **Outputs:** The game will update the position of the player, and will go to the next level if the player is at the end of the level.
 
-**Transmission:** 
-
-**Storage:** The game will store which levels have been completed. 
+**Storage:** The game will store which levels have been completed, along with the fastest completion times for each level.
 
 ### Functional and Non-Functional Specifications
 
@@ -54,13 +52,13 @@ I want to create a puzzle-platformer game in which the player must push boxes on
 **Definitions:**
 
 Equity - Being fair and just in the way people are treated. \
-Accessibility - Designing porducts such that they can be accessed by anyone.
+Accessibility - Designing porducts in a way that allows then to be accessed by anyone.
 
 **Accessibility:** My game should be pretty accessible without the need for special considerations due to its simplistic nature and minimal controls.
 
 **Privacy and Data Protection:** I will ensure that any data collected such as best times and the levels that have been completed will remain stored securely.
 
-**Fairness and Representation:** My characters will likely not be human, so there isn't much of an opportunity to include diverse characters.
+**Fairness and Representation:** My characters will likely not be human, so there isn't much of an opportunity to include diverse characters, or to portray harmful stereotypes.
 
 **Mental and Emotional Well-being:** Players may get frustrated if they cannot solve the puzzles, but otherwise the game will not have any effect on the player's mental or emotional wellbeing.
 
